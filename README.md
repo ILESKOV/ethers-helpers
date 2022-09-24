@@ -67,3 +67,4 @@ $ node examples/6_contract_event_stream.js
 ```
 $ node examples/7_inspecting_blocks.js
 ```
+
