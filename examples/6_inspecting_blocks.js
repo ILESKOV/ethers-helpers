@@ -5,6 +5,7 @@ const provider = new ethers.providers.JsonRpcProvider(
   `https://goerli.infura.io/v3/${INFURA_ID}`
 );
 
+//inspect blocks
 const main = async () => {
   const block = await provider.getBlockNumber();
 
